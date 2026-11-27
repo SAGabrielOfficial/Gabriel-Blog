@@ -1,14 +1,16 @@
-#feed {
-    text-align: center;
-    background-color: black;
-    color: white;
-}
+
+/* (( Página inicial )) */
+
+/* Cabeçalho */
 
 #header {
     text-align: center;
     background-color: black;
     color: white;
 }
+
+
+
 
 #body {
     background-color: gray;
@@ -19,10 +21,9 @@
     
 }
 
-#feedline {
-    text-align: center;
-    color:white;
-}
+
+/* Navegação */
+
 
 a.botao1 {
     text-decoration: none;
@@ -55,3 +56,20 @@ a.botao2:hover {
     color:white;
     border-color:white;
 }
+
+
+/* Sessão de Feed */
+
+#feed {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#feedline {
+    text-align: center;
+    color:white;
+}
+
+/* Sessão de Rodapé */
+
