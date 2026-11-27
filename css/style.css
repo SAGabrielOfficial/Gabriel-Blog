@@ -1,0 +1,24 @@
+#feed {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#body {
+    background-color: gray;
+}
+
+#nav {
+    background-color:aliceblue;
+}
+
+#feedline {
+    text-align: center;
+    color:white;
+}
