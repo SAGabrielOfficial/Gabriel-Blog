@@ -15,10 +15,43 @@
 }
 
 #nav {
-    background-color:aliceblue;
+    background-color:gray;
+    
 }
 
 #feedline {
     text-align: center;
     color:white;
+}
+
+a.botao1 {
+    text-decoration: none;
+    color:black;
+    border: 2px solid black;
+    padding: 3px 5px;
+    border-color:black;
+    background-color:white;
+    border-radius: 10px;
+}
+
+a.botao1:hover {
+    background-color:green;
+    color:white;
+    border-color:white;
+}
+
+a.botao2 {
+    text-decoration: none;
+    color:black;
+    border: 2px solid black;
+    padding: 3px 5px;
+    border-color:black;
+    background-color:white;
+    border-radius: 10px;
+}
+
+a.botao2:hover {
+    background-color:green;
+    color:white;
+    border-color:white;
 }
