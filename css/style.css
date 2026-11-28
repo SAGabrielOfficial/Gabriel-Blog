@@ -41,22 +41,6 @@ a.botao1:hover {
     border-color:white;
 }
 
-a.botao2 {
-    text-decoration: none;
-    color:black;
-    border: 2px solid black;
-    padding: 3px 5px;
-    border-color:black;
-    background-color:white;
-    border-radius: 10px;
-}
-
-a.botao2:hover {
-    background-color:green;
-    color:white;
-    border-color:white;
-}
-
 
 /* Sessão de Feed */
 
@@ -71,5 +55,52 @@ a.botao2:hover {
     color:white;
 }
 
+/* Sessão do Corpo da Página*/
+
+#body {
+    background-color: gray;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    background-color: gray;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+
+
 /* Sessão de Rodapé */
 
+
+section {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    color:white;
+    background-color:black;
+}
+
+
+
+/* (( Página Sobre )) */
+/* Cabeçalho*/
+
+
+
+
+
+
+/* (( Página Changelogs )) */
+/* Cabeçalho */
+
+.header {
+    text-align: center;
+    Background-color:black;
+}
